@@ -1,0 +1,50 @@
+{
+  "domID": "#demo_Browser",
+  "itemName": "Oldurulen kadin",
+  "source": {
+    "gdocId": "1c9K18Os7AuKmQRUmDJNr4WBhlFXLBEOxT1LvYns8lsU",
+    "tables": [
+      {
+        "name": "Oldurulen kadin",
+        "id": "id"
+      }
+    ],
+    "url": "https://docs.google.com/spreadsheet/ccc?key=1c9K18Os7AuKmQRUmDJNr4WBhlFXLBEOxT1LvYns8lsU"
+  },
+  "summaries": [
+    {
+      "name": "Kim tarafından",
+      "panel": "left"
+    },
+    {
+      "name": "Neden",
+      "panel": "left"
+    },
+    {
+      "name": "Nasıl",
+      "panel": "right"
+    },
+    {
+      "name": "Korunma talebi",
+      "panel": "right"
+    },
+    {
+      "name": "Yıl",
+      "panel": "bottom"
+    }
+  ],
+  "leftPanelLabelWidth": 160,
+  "rightPanelLabelWidth": 160,
+  "middlePanelLabelWidth": 160,
+  "recordDisplay": {
+    "displayType": "list",
+    "textSearch": "id",
+    "recordView": "id",
+    "sortBy": [
+      "id",
+      "Yıl"
+    ],
+    "sortColWidth": 50,
+    "detailsToggle": "zoom"
+  }
+}
